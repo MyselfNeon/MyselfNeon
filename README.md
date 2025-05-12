@@ -9,10 +9,10 @@
 </p>
 
 <p align="center">
- Trust me! I'm not Lazy 😒
+ I am not a Professional 😅
 </p>
 
-# Community ❤️
+### 𝐂𝐎𝐌𝐌𝐔𝐍𝐈𝐓𝐘
 </p>
 <p align="center">
 <a href="https://instagram.com/Neon.an_?igshid=YmMyMTA2M2Y="><img alt="replit" src="https://img.shields.io/badge/-Instagram-orange?style=for-the-badge&logo=instagram&logoColor=white"/></a> <a href="https://telegram.me/MyselfNeon"><img alt="replit" src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"/></a>
