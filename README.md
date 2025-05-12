@@ -30,4 +30,4 @@
 
 
 ## YouTube 
-<a href="https://youtube.com/@MyselfNeon"> <img src="https://img.shields.io/youtube/channel/subscribers/UCY-iDra0x2hdd9PdHKcZkRw?label=Subscribers&style=for-the-badge&color=red&labelColor=ce463"/> </a>
+<a href="https://youtube.com/@MyselfNeon"> <img src="https://img.shields.io/youtube/channel/subscribers/UC7dvJ14IsC5qRp9O_V0ohxg?label=Subscribers&style=for-the-badge&color=red&labelColor=ce463"/> </a>
