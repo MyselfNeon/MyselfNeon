@@ -12,22 +12,22 @@
  I am not a Professional 😅
 </p>
 
-### COMMUNITY Community
+### _Community_
 </p>
 <p align="center">
 <a href="https://instagram.com/Neon.an_?igshid=YmMyMTA2M2Y="><img alt="replit" src="https://img.shields.io/badge/-Instagram-orange?style=for-the-badge&logo=instagram&logoColor=white"/></a> <a href="https://telegram.me/MyselfNeon"><img alt="replit" src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 <a href="https://youtube.com/@MyselfNeon?igshid=YmMyMTA2M2Y="><img alt="replit" src="https://img.shields.io/badge/-youtube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 </p>
 
-### 𝐆𝐈𝐓𝐇𝐔𝐁
+### _Github_
 [![Stats](https://github-readme-stats.vercel.app/api?username=MyselfNeon&hide=prs&count_public=true&show_icons=true&theme=algolia)](https://github.com/MyselfNeon/github-readme-stats)
 <img src="https://github-readme-streak-stats.herokuapp.com?user=MyselfNeon&theme=tokyonight" align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MyselfNeon&layout=compact&theme=tokyonight" align="center">
 
 
-### 𝐏𝐑𝐎𝐅𝐈𝐋𝐄 𝐕𝐈𝐄𝐖 𝐂𝐎𝐔𝐍𝐓𝐄𝐑
+### _Profile Views Counter_
 ![Visitor Count](https://profile-counter.glitch.me/{MyselfNeon}/count.svg)
 
 
-### 𝐘𝐎𝐔𝐓𝐔𝐁𝐄
+### _Youtube_
 <a href="https://youtube.com/@MyselfNeon"> <img src="https://img.shields.io/youtube/channel/subscribers/UC7dvJ14IsC5qRp9O_V0ohxg?label=Subscribers&style=for-the-badge&color=red&labelColor=ce463"/> </a>
