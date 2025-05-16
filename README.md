@@ -30,6 +30,3 @@
 ### _Profile Views Counter_
 ![Visitor Count](https://profile-counter.glitch.me/{MyselfNeon}/count.svg)
 
-
-### _Youtube_
-<a href="https://youtube.com/@MyselfNeon"> <img src="https://img.shields.io/youtube/channel/subscribers/UC7dvJ14IsC5qRp9O_V0ohxg?label=Subscribers&style=for-the-badge&color=red&labelColor=ce463"/> </a>
