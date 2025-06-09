@@ -28,5 +28,5 @@
 
 
 ### _Profile Visitors Counter_ 👀
-<a href="https://github.com/MyselfNeon"><img alt="Neko Count" src="https://count.getloli.com/get/@MyselfNeon?theme=nekos" /></a>
+<a href="https://github.com/MyselfNeon"><img alt="Visitors" src="https://count.getloli.com/get/@MyselfNeon?theme=gelbooru" /></a>
 
