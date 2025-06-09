@@ -14,8 +14,26 @@
 
 <img src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" width="300px" align="right" alt="">
 
-### _Community_
+<p align="center">
+  <kbd style="
+    display: inline-block;
+    width: 320px;        /* width */
+    height: 180px;       /* height to keep 16:9 ratio */
+    border: 3px solid #02ff00;
+    border-radius: 10px;
+    background-color: #0d1117;
+    color: #02ff00;
+    font-weight: bold;
+    font-size: 1.2em;
+    line-height: 180px;  /* vertically center text */
+    text-align: center;
+    box-sizing: border-box;
+  ">
+    Neon Anurag
+  </kbd>
 </p>
+
+### _Community_
 <p align="center">
 <a href="https://instagram.com/Neon.an_?igshid=YmMyMTA2M2Y="><img alt="replit" src="https://img.shields.io/badge/-Instagram-orange?style=for-the-badge&logo=instagram&logoColor=white"/></a> <a href="https://telegram.me/MyselfNeon"><img alt="replit" src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 <a href="https://youtube.com/@MyselfNeon?igshid=YmMyMTA2M2Y="><img alt="replit" src="https://img.shields.io/badge/-youtube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
