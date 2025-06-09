@@ -34,12 +34,9 @@
 </p>
 
 ### 🌐 _Socials_
-[![MyselfNeon YouTube Channel](https://img.shields.io/badge/YouTube-MyselfNeon-red?logo=youtube&logoColor=white)](https://www.youtube.com/@MyselfNeon) [![NeonAn Instagram](https://img.shields.io/badge/Instagram-MyselfNeon-pink?logo=instagram&logoColor=white)](https://www.instagram.com/neon.an_) [![MyselfNeon Facebook](https://img.shields.io/badge/Facebook-NeonAnurag-blue?logo=facebook&logoColor=white)](https://www.facebook.com/anurag.nandan.370) [![Techno Snag Twitter](https://img.shields.io/badge/Twitter-Techno%20Snag-lightblue?logo=twitter&logoColor=white)](https://twitter.com/technosnag)
-
-<p align="center">
-<a href="https://instagram.com/Neon.an_?igshid=YmMyMTA2M2Y="><img alt="replit" src="https://img.shields.io/badge/-Instagram-orange?style=for-the-badge&logo=instagram&logoColor=white"/></a> <a href="https://telegram.me/MyselfNeon"><img alt="replit" src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-<a href="https://youtube.com/@MyselfNeon?igshid=YmMyMTA2M2Y="><img alt="replit" src="https://img.shields.io/badge/-youtube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-</p>
+[![MyselfNeon YouTube Channel](https://img.shields.io/badge/YouTube-MyselfNeon-red?logo=youtube&logoColor=white)](https://www.youtube.com/@MyselfNeon) [![NeonAn Instagram](https://img.shields.io/badge/Instagram-MyselfNeon-pink?logo=instagram&logoColor=white)](https://www.instagram.com/neon.an_) [![MyselfNeon Facebook](https://img.shields.io/badge/Facebook-Anurag-blue?logo=facebook&logoColor=white)](https://www.facebook.com/anurag.nandan.370)
+[![Telegram](https://img.shields.io/badge/Telegram-MyselfNeon-0088cc?logo=telegram&logoColor=white)](https://t.me/MyselfNeon)
+[![Discord](https://img.shields.io/badge/Discord-NeonAn-5865F2?logo=discord&logoColor=white)](https://discord.gg/your-invite-code)
 
 ### _Github_
 
