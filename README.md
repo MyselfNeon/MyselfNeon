@@ -25,6 +25,10 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MyselfNeon&show_icons=true&theme=midnight-purple&border_radius=15&title_color=02ff00&icon_color=02ff00&bg_color=0d1117)
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=MyselfNeon&theme=dark&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&currStreakNum=39FF14&sideLabels=00FF00&dates=33FF33&hide_border=false&background=00000000" />
+</p>
+
 [![Trophies](https://github-profile-trophy.vercel.app/?username=MyselfNeon&theme=dracula&column=6&margin-w=15&margin-h=15)](https://github.com/MyselfNeon)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MyselfNeon&layout=compact&theme=ayu-mirage&card_width=320&border_radius=10&title_color=02ff00&icon_color=02ff00&bg_color=0d1117)
