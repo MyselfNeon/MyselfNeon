@@ -22,10 +22,12 @@
 </p>
 
 ### _Github_
-[![Stats](https://github-readme-stats.vercel.app/api?username=MyselfNeon&hide=prs&count_public=true&show_icons=true&theme=algolia)](https://github.com/MyselfNeon/github-readme-stats)
-<img src="https://github-readme-streak-stats.herokuapp.com?user=MyselfNeon&theme=tokyonight" align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MyselfNeon&layout=compact&theme=tokyonight" align="center">
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MyselfNeon&show_icons=true&theme=midnight-purple&border_radius=15&title_color=ff79c6&icon_color=ff79c6&bg_color=0d1117)
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=MyselfNeon&theme=dracula&column=6&margin-w=15&margin-h=15)](https://github.com/MyselfNeon)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MyselfNeon&layout=compact&theme=ayu-mirage&card_width=320&border_radius=10)
 
 ### _Profile Visitors Counter_ 👀
 <a href="https://github.com/MyselfNeon"><img alt="Loli Count" src="https://count.getloli.com/get/@MyselfNeon?theme=loli" /></a>
