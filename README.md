@@ -36,7 +36,7 @@
 ### 🌐 _Socials_
 [![MyselfNeon YouTube Channel](https://img.shields.io/badge/YouTube-MyselfNeon-red?logo=youtube&logoColor=white)](https://www.youtube.com/@MyselfNeon) [![NeonAn Instagram](https://img.shields.io/badge/Instagram-MyselfNeon-pink?logo=instagram&logoColor=white)](https://www.instagram.com/neon.an_) [![MyselfNeon Facebook](https://img.shields.io/badge/Facebook-Anurag-blue?logo=facebook&logoColor=white)](https://www.facebook.com/anurag.nandan.370)
 [![Telegram](https://img.shields.io/badge/Telegram-MyselfNeon-0088cc?logo=telegram&logoColor=white)](https://t.me/MyselfNeon)
-[![Discord](https://img.shields.io/badge/Discord-Neon%An-5865F2?logo=discord&logoColor=white)](https://discord.com/users/963775868184969259)
+[![Discord](https://img.shields.io/badge/Discord-Neon%20An-5865F2?logo=discord&logoColor=white)](https://discord.com/users/963775868184969259)
 
 ### _Github_
 
