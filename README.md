@@ -19,7 +19,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-MyselfNeon-0088cc?logo=telegram&logoColor=white)](https://t.me/MyselfNeon)
 [![Discord](https://img.shields.io/badge/Discord-Neon%20An-5865F2?logo=discord&logoColor=white)](https://discord.com/users/963775868184969259)
 
-### _Github_
+### 👨‍💻 _Github_
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MyselfNeon&show_icons=true&theme=midnight-purple&border_radius=15&title_color=02ff00&icon_color=02ff00&bg_color=0d1117)
 
@@ -31,7 +31,7 @@
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=MyselfNeon&theme=onedark&column=6&margin-w=15&margin-h=15)](https://github.com/MyselfNeon)
 
-### _Profile Visitors Counter_ 👀
+### 👀 _Profile Visitors Counter_
 <a href="https://github.com/MyselfNeon"><img alt="Loli Count" src="https://count.getloli.com/get/@MyselfNeon?theme=loli" /></a>
 
 <!-- Snake Game Repo View -->
