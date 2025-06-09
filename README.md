@@ -53,3 +53,8 @@
 ### _Profile Visitors Counter_ 👀
 <a href="https://github.com/MyselfNeon"><img alt="Loli Count" src="https://count.getloli.com/get/@MyselfNeon?theme=loli" /></a>
 
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
