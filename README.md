@@ -27,6 +27,9 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MyselfNeon&layout=compact&theme=tokyonight" align="center">
 
 
+<h3>Visitors Counts 👀</h3>
+<a href="https://github.com/MyselfNeon"><img alt="Cute Count" src="https://count.getloli.com/get/@MyselfNeon?theme=rule34" /></a>
+
 ### _Profile Views Counter_
 ![Visitor Count](https://profile-counter.glitch.me/{MyselfNeon}/count.svg)
 
