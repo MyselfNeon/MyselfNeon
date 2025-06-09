@@ -12,27 +12,8 @@
  <i><b>I am not a Professional</b></i> ❤️
 </p>
 
-<img src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" width="300px" align="right" alt="">
-
-<p align="center">
-  <kbd style="
-    display: inline-block;
-    width: 320px;        /* width */
-    height: 180px;       /* height to keep 16:9 ratio */
-    border: 3px solid #02ff00;
-    border-radius: 10px;
-    background-color: #0d1117;
-    color: #02ff00;
-    font-weight: bold;
-    font-size: 1.2em;
-    line-height: 180px;  /* vertically center text */
-    text-align: center;
-    box-sizing: border-box;
-  ">
-    Neon Anurag
-  </kbd>
-</p>
-
+<img src="https://www.iiserkol.ac.in/~cds/assets/image/intro_to_comp_programming.jpg"/>
+  
 ### 🌐 _Socials_
 [![MyselfNeon YouTube Channel](https://img.shields.io/badge/YouTube-MyselfNeon-red?logo=youtube&logoColor=white)](https://www.youtube.com/@MyselfNeon) [![NeonAn Instagram](https://img.shields.io/badge/Instagram-MyselfNeon-pink?logo=instagram&logoColor=white)](https://www.instagram.com/neon.an_) [![MyselfNeon Facebook](https://img.shields.io/badge/Facebook-Anurag-blue?logo=facebook&logoColor=white)](https://www.facebook.com/anurag.nandan.370)
 [![Telegram](https://img.shields.io/badge/Telegram-MyselfNeon-0088cc?logo=telegram&logoColor=white)](https://t.me/MyselfNeon)
