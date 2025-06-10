@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
- <i><b>I am not a Professional</b></i> ❤️
+  <img src="https://readme-typing-svg.herokuapp.com?lines=I%20am%20not%20a%20Professional%20;Hello%20World%20!&font=Comic%20Sans%20MS&center=true&vCenter=true&size=25&pause=1000&color=FF4C4C" />
 </p>
 
 <img src="https://www.iiserkol.ac.in/~cds/assets/image/intro_to_comp_programming.jpg"/>
