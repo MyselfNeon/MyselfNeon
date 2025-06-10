@@ -1,6 +1,7 @@
 <p align="center">
   <a href="https://github.com/MyselfNeon/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=MyselfNeon&font=Comic%20Sans%20MS&center=true&width=480&height=45&color=28f600&vCenter=true&pause=1000&size=40" /></a>
+  <img src="https://readme-typing-svg.demolab.com/?lines=MyselfNeon&font=Comic%20Sans%20MS&center=true&width=480&height=70&color=28f600&vCenter=true&pause=1000&size=40" />
+</a>
 </p>
 
 <p align="center">
