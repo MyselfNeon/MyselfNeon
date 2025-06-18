@@ -1,12 +1,12 @@
 
 class script(object):
-    START_TXT = """<b><blockquote><i>⪼ Hello {}</blockquote>\n<blockquote>I am Latest Advanced Filter Bot.\nCoded & Developed by <a href='https://t.me/MyselfNeon'>NeonAnurag</a>.\nI can Filter and Send Movies/Animes files added to my Database !!</blockquote></i></b>"""
+    START_TXT = """<b><blockquote><i>‣ Hello {}</blockquote>\n<blockquote>I am Latest Advanced Filter Bot.\nCoded & Developed by <a href='https://t.me/MyselfNeon'>NeonAnurag</a>.\nI can Filter and Send Movies/Animes files added to my Database !!</blockquote></i></b>"""
 
-    CLONE_START_TXT = """<b><blockquote><i>⪼ Hello {}</blockquote>\n<blockquote>I am Latest Advanced Filter Bot.\nCoded & Developed by <a href='https://t.me/MyselfNeon'>NeonAnurag</a>.\nYou can create you own Clone Bot and use it in your own channel. It will Filter and Send Movies/Animes files added to its Database !!</blockquote></i></b>"""
+    CLONE_START_TXT = """<b><blockquote><i>‣ Hello {}</blockquote>\n<blockquote>I am Latest Advanced Filter Bot.\nCoded & Developed by <a href='https://t.me/MyselfNeon'>NeonAnurag</a>.\nYou can create you own Clone Bot and use it in your own channel. It will Filter and Send Movies/Animes files added to its Database !!</blockquote></i></b>"""
     
-    HELP_TXT = """<b><i>Hello {} \nHere are all my useful features.</i></b>"""
+    HELP_TXT = """<blockquote><b><i>Hello {} \nHere are all my useful features.</i></b></blockquote>"""
 
-    ABOUT_TXT = """<b><i><blockquote>⪼📝 My Details</blockquote>
+    ABOUT_TXT = """<b><i><blockquote>‣ 📝 My Details</blockquote>
     
 ⪼ My Name : <a href=https://t.me/{}>{}</a>
 ⪼ My Best Friend : <a href='tg://settings'>This Sweetie 🤌❤️</a> 
@@ -17,7 +17,7 @@ class script(object):
 ⪼ Bot Server : <a href='https://heroku.com'>Heroku</a> 
 ⪼ Build Status : ᴠ2.7.1 [Stable]</i></b>"""
 
-    CLONE_ABOUT_TXT = """<b><i><blockquote>📝 My Details</blockquote>
+    CLONE_ABOUT_TXT = """<b><i><blockquote>‣ 📝 My Details</blockquote>
     
 ⪼ My Name : {}
 ⪼ My Best Friend : <a href='tg://settings'>This Sweetie 🤌❤️</a> 
@@ -27,7 +27,7 @@ class script(object):
 ⪼ Data Base : <a href='https://www.mongodb.com/'>Mongo DB</a> 
 ⪼ Build Status : ᴠ2.7.1 [Stable]></i></b>"""
 
-    CLONE_TXT = """<blockquote><b><i>👥 CLONE MODE</blockquote>
+    CLONE_TXT = """<blockquote><b><i>‣ 👥 CLONE MODE</blockquote>
 
 - You can create your own clone Bot by /clone Command
 - You can Broadcast in your clone Bots
@@ -35,16 +35,16 @@ class script(object):
 
 👨‍💻 Command : /clone</i></b>"""
 
-    SUBSCRIPTION_TXT = """<blockquote><b><u>💢 REFERAL PLANS 💢</u></blockquote>
+    SUBSCRIPTION_TXT = """<blockquote><b>🎊 REFERAL PLANS 🎊</blockquote>
 <blockquote expandable><i>Refer your link to your Friends, Family, Channel and Groups to get free Premium for {}
 
 Referal Link - https://telegram.me/{}?start=VJ-{}
 
 If {} unique user start the Bot with your referal link then you will Automatically added in Premium List.\n\nBuy paid plan by - /plan\n\n@NeonFiles</b></i></blockquote>"""
 
-    MANUELFILTER_TXT = """Help: <b>Fɪʟᴛᴇʀꜱ</b>
-- ꜰɪʟᴛᴇʀ ɪꜱ ᴀ ꜰᴇᴀᴛᴜʀᴇ ᴡᴇʀᴇ ᴜꜱᴇʀꜱ ᴄᴀɴ ꜱᴇᴛ ᴀᴜᴛᴏᴍᴀᴛᴇᴅ ʀᴇᴘʟɪᴇꜱ ꜰᴏʀ ᴀ ᴘᴀʀᴛɪᴄᴜʟᴀʀ ᴋᴇʏᴡᴏʀᴅ ᴀɴᴅ ɪ ᴡɪʟʟ ʀᴇꜱᴘᴏɴᴅ ᴡʜᴇɴᴇᴠᴇʀ ᴀ ᴋᴇʏᴡᴏʀᴅ ɪꜱ ꜰᴏᴜɴᴅ ɪɴ ᴛʜᴇ ᴍᴇꜱꜱᴀɢᴇ
-<b>ɴᴏᴛᴇ:</b>
+    MANUELFILTER_TXT = """<blockquote><b><i>‣ Filters<blockquote>
+Filter is a feature where users can set Automated replies for a perticular keyword abd i will respond whenever a keyword is found in the Message.
+\n<b><blockquote>‣ Note</b></blockquote>
 1. ᴛʜɪꜱ ʙᴏᴛ ꜱʜᴏᴜʟᴅ ʜᴀᴠᴇ ᴀᴅᴍɪɴ ᴘʀɪᴠɪʟᴇɢᴇ.
 2. ᴏɴʟʏ ᴀᴅᴍɪɴꜱ ᴄᴀɴ ᴀᴅᴅ ꜰɪʟᴛᴇʀꜱ ɪɴ ᴀ ᴄʜᴀᴛ.
 3. ᴀʟᴇʀᴛ ʙᴜᴛᴛᴏɴꜱ ʜᴀᴠᴇ ᴀ ʟɪᴍɪᴛ ᴏꜰ 64 ᴄʜᴀʀᴀᴄᴛᴇʀꜱ.
@@ -52,7 +52,7 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 • /filter - <code>ᴀᴅᴅ ᴀ ꜰɪʟᴛᴇʀ ɪɴ ᴀ ᴄʜᴀᴛ</code>
 • /filters - <code>ʟɪꜱᴛ ᴀʟʟ ᴛʜᴇ ꜰɪʟᴛᴇʀꜱ ᴏꜰ ᴀ ᴄʜᴀᴛ</code>
 • /del - <code>ᴅᴇʟᴇᴛᴇ ᴀ ꜱᴘᴇᴄɪꜰɪᴄ ꜰɪʟᴛᴇʀ ɪɴ ᴀ ᴄʜᴀᴛ</code>
-• /delall - <code>ᴅᴇʟᴇᴛᴇ ᴛʜᴇ ᴡʜᴏʟᴇ ꜰɪʟᴛᴇʀꜱ ɪɴ ᴀ ᴄʜᴀᴛ (ᴄʜᴀᴛ ᴏᴡɴᴇʀ ᴏɴʟʏ)</code>"""
+• /delall - <code>ᴅᴇʟᴇᴛᴇ ᴛʜᴇ ᴡʜᴏʟᴇ ꜰɪʟᴛᴇʀꜱ ɪɴ ᴀ ᴄʜᴀᴛ (ᴄʜᴀᴛ ᴏᴡɴᴇʀ ᴏɴʟʏ)</code></i></b>"""
 
     # Don't Remove Credit @VJ_Botz
 # Subscribe YouTube Channel For Amazing Bot @Tech_VJ
