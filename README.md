@@ -32,8 +32,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MyselfNeon&layout=compact&theme=ayu-mirage&card_width=320&border_radius=10&title_color=02ff00&text_color=02ff00&bg_color=0d1117)
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=MyselfNeon&theme=onedark&column=6&margin-w=15&margin-h=15)](https://github.com/MyselfNeon)
-
 <a href="https://github.com/MyselfNeon">
   <img alt="Neon's Activity Graph" src="https://ghactivity.mrayush.me/graph?username=MyselfNeon&bg_color=1F222E&color=00FF00&line=00FF00&point=FFFFFF&hide_border=true" />
 </a>
