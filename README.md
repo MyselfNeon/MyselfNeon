@@ -15,6 +15,8 @@
 
 <img src="https://www.iiserkol.ac.in/~cds/assets/image/intro_to_comp_programming.jpg"/>
   
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
+
 ### 🌐 _Socials_
 [![Telegram](https://img.shields.io/badge/Telegram-MyselfNeon-0088cc?logo=telegram&logoColor=white)](https://t.me/MyselfNeon)
 [![PlatinMods User](https://img.shields.io/badge/PlatinMods-NeonAn-blueviolet?style=flat&logo=googlechrome&logoColor=white)](https://platinmods.com/members/neon-an.3695277/)
@@ -22,8 +24,9 @@
 [![MyselfNeon YouTube Channel](https://img.shields.io/badge/YouTube-MyselfNeon-red?logo=youtube&logoColor=white)](https://www.youtube.com/@MyselfNeon)
 [![Discord](https://img.shields.io/badge/Discord-NeonAnurag-5865F2?logo=discord&logoColor=white)](https://discord.com/users/963775868184969259)
 
-### 👨‍💻 _Github_
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
 
+### 👨‍💻 _Github_
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MyselfNeon&show_icons=true&theme=midnight-purple&border_radius=15&title_color=02ff00&icon_color=02ff00&bg_color=0d1117)
 
 <p align="center">
@@ -36,11 +39,20 @@
   <img alt="Neon's Activity Graph" src="https://ghactivity.mrayush.me/graph?username=MyselfNeon&bg_color=1F222E&color=00FF00&line=00FF00&point=FFFFFF&hide_border=true" />
 </a>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
+
 ### 👀 _Profile Visitors Counter_
 <a href="https://github.com/MyselfNeon"><img alt="Loli Count" src="https://count.getloli.com/get/@MyselfNeon?theme=loli" /></a>
+
+<h3> <img src="https://raw.githubusercontent.com/AnonymousX1025/AnonymousX1025/master/resources/songs.gif" width="57px">Currently Listening</h3>
+
+[<img src="https://novatorem.visualbean.vercel.app/api/spotify" alt="Spotify" width="75%" />](https://open.spotify.com/user/d28p2msbxwzil9byvx5sql00z)
+
 
 <!-- Snake Game Repo View -->
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
