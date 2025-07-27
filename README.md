@@ -48,7 +48,7 @@
 
 <h3> <img src="https://raw.githubusercontent.com/AnonymousX1025/AnonymousX1025/master/resources/songs.gif" width="55px">𝑪𝒖𝒓𝒓𝒆𝒏𝒕𝒍𝒚 𝒐𝒏 𝑺𝒑𝒐𝒕𝒊𝒇𝒚</h3>
 
-[<img src="https://novatorem.visualbean.vercel.app/api/spotify" alt="Spotify" width="100%" />](https://open.spotify.com/user/31ybec4hzel7z5casq7yupp3td2e)
+[<img src="https://novatorem.visualbean.vercel.app/api/spotify" alt="Spotify" width="100%" />](https://open.spotify.com/user/d28p2msbxwzil9byvx5sql00z)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
 
