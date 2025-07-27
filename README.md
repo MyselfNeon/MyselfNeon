@@ -17,7 +17,7 @@
   
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
 
-### 🌐 _Socials_
+### 🌐 𝑺𝒐𝒄𝒊𝒂𝒍 𝑵𝒆𝒕𝒘𝒐𝒓𝒌𝒔
 [![Telegram](https://img.shields.io/badge/Telegram-MyselfNeon-0088cc?logo=telegram&logoColor=white)](https://t.me/MyselfNeon)
 [![PlatinMods User](https://img.shields.io/badge/PlatinMods-NeonAn-blueviolet?style=flat&logo=googlechrome&logoColor=white)](https://platinmods.com/members/neon-an.3695277/)
 [![NeonAn Instagram](https://img.shields.io/badge/Instagram-MyselfNeon-pink?logo=instagram&logoColor=white)](https://www.instagram.com/neon.an_) [![MyselfNeon Facebook](https://img.shields.io/badge/Facebook-AnuragAn-blue?logo=facebook&logoColor=white)](https://www.facebook.com/anurag.nandan.370)
@@ -26,7 +26,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
 
-### 👨‍💻 _Github_
+### 👨‍💻 𝑮𝒊𝒕𝒉𝒖𝒃 𝑺𝒕𝒂𝒕𝒔
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MyselfNeon&show_icons=true&theme=midnight-purple&border_radius=15&title_color=02ff00&icon_color=02ff00&bg_color=0d1117)
 
 <p align="center">
@@ -41,13 +41,16 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
 
-### 👀 _Profile Visitors Counter_
+### 👀 𝑷𝒓𝒐𝒇𝒊𝒍𝒆 𝑽𝒊𝒔𝒊𝒕𝒐𝒓𝒔 𝑪𝒐𝒖𝒏𝒕𝒆𝒓
 <a href="https://github.com/MyselfNeon"><img alt="Loli Count" src="https://count.getloli.com/get/@MyselfNeon?theme=loli" /></a>
 
-<h3> <img src="https://raw.githubusercontent.com/AnonymousX1025/AnonymousX1025/master/resources/songs.gif" width="57px">Currently Listening</h3>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
 
-[<img src="https://novatorem.visualbean.vercel.app/api/spotify" alt="Spotify" width="75%" />](https://open.spotify.com/user/d28p2msbxwzil9byvx5sql00z)
+<h3> <img src="https://raw.githubusercontent.com/AnonymousX1025/AnonymousX1025/master/resources/songs.gif" width="55px">𝑪𝒖𝒓𝒓𝒆𝒏𝒕𝒍𝒚 𝒐𝒏 𝑺𝒑𝒐𝒕𝒊𝒇𝒚</h3>
 
+[<img src="https://novatorem.visualbean.vercel.app/api/spotify" alt="Spotify" width="100%" />](https://open.spotify.com/user/d28p2msbxwzil9byvx5sql00z)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
 
 <!-- Snake Game Repo View -->
 
