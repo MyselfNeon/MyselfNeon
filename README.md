@@ -45,16 +45,67 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
 
-<h3> <img src="https://raw.githubusercontent.com/AnonymousX1025/AnonymousX1025/master/resources/songs.gif" width="55px">𝑪𝒖𝒓𝒓𝒆𝒏𝒕𝒍𝒚 𝒐𝒏 𝑺𝒑𝒐𝒕𝒊𝒇𝒚</h3>
-
-[<img src="https://novatorem.visualbean.vercel.app/api/spotify" alt="Spotify" width="100%" />](https://open.spotify.com/user/d28p2msbxwzil9byvx5sql00z)
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
-
-<!-- Snake Game Repo View -->
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
+```json
+{
+  "name": "MyselfNeon",
+  "username": "MyselfNeon",
+  "title": "bot architect | automation addict",
+  "philosophy": [
+    "rate limits are just suggestions",
+    "webhooks over polling, always",
+    "APIs are meant to be pushed",
+    "bots don't sleep, neither do my servers"
+  ],
+  "toolbox": {
+    "langs": [
+      "Python",
+      "JS/TS",
+      "Bash",
+      "Go"
+    ],
+    "runtimes": [
+      "Node.js",
+      "Python"
+    ],
+    "databases": [
+      "MongoDB",
+      "PostgreSQL",
+      "Redis"
+    ],
+    "tools": [
+      "Git",
+      "VS Code",
+      "Docker",
+      "Postman",
+      "Google Cloud Console"
+    ],
+    "platforms": [
+      "Google Drive API",
+      "Telegram",
+      "VPS",
+      "Heroku",
+      "Cloudflare"
+    ],
+    "web": [
+      "HTML",
+      "JSON"
+    ],
+    "docker": [
+      "python:slim",
+      "alpine"
+    ]
+  },
+  "trivia": [
+    "talks to the Google Drive API more than humans",
+    "has a cron job for literally everything",
+    "probably debugging a webhook event right now"
+  ],
+  "quote": {
+    "text": [
+      "Why spend 5 minutes doing a task manually",
+      "when you can spend 5 hours building a bot to do it?"
+    ],
+    "author": "MyselfNeon"
+  }
+}
+```
